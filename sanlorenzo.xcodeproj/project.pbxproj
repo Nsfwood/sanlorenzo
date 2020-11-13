@@ -7,23 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		082AA694255E55D000EFBA94 /* NationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 082AA693255E55D000EFBA94 /* NationView.swift */; };
+		082AA695255E55D000EFBA94 /* NationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 082AA693255E55D000EFBA94 /* NationView.swift */; };
+		082AA699255E588E00EFBA94 /* CovidProjectMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 082AA698255E588E00EFBA94 /* CovidProjectMachine.swift */; };
+		082AA69A255E588E00EFBA94 /* CovidProjectMachine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 082AA698255E588E00EFBA94 /* CovidProjectMachine.swift */; };
+		082AA6A0255EE4AC00EFBA94 /* CurrentStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 082AA69F255EE4AC00EFBA94 /* CurrentStateView.swift */; };
+		082AA6A1255EE4AC00EFBA94 /* CurrentStateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 082AA69F255EE4AC00EFBA94 /* CurrentStateView.swift */; };
+		082AA6A5255EE50100EFBA94 /* StatesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 082AA6A4255EE50100EFBA94 /* StatesView.swift */; };
+		082AA6A6255EE50100EFBA94 /* StatesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 082AA6A4255EE50100EFBA94 /* StatesView.swift */; };
 		088E59C5255E2E0400B4D0B0 /* sanlorenzoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 088E59B2255E2E0200B4D0B0 /* sanlorenzoApp.swift */; };
 		088E59C6255E2E0400B4D0B0 /* sanlorenzoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 088E59B2255E2E0200B4D0B0 /* sanlorenzoApp.swift */; };
 		088E59C7255E2E0400B4D0B0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 088E59B3255E2E0200B4D0B0 /* ContentView.swift */; };
 		088E59C8255E2E0400B4D0B0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 088E59B3255E2E0200B4D0B0 /* ContentView.swift */; };
 		088E59C9255E2E0400B4D0B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 088E59B4255E2E0400B4D0B0 /* Assets.xcassets */; };
 		088E59CA255E2E0400B4D0B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 088E59B4255E2E0400B4D0B0 /* Assets.xcassets */; };
+		088E59D6255E36ED00B4D0B0 /* PreferencesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 088E59D5255E36ED00B4D0B0 /* PreferencesView.swift */; };
+		088E59D7255E36ED00B4D0B0 /* PreferencesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 088E59D5255E36ED00B4D0B0 /* PreferencesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		082AA693255E55D000EFBA94 /* NationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NationView.swift; sourceTree = "<group>"; };
+		082AA698255E588E00EFBA94 /* CovidProjectMachine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CovidProjectMachine.swift; sourceTree = "<group>"; };
+		082AA69F255EE4AC00EFBA94 /* CurrentStateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentStateView.swift; sourceTree = "<group>"; };
+		082AA6A4255EE50100EFBA94 /* StatesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatesView.swift; sourceTree = "<group>"; };
 		088E59B2255E2E0200B4D0B0 /* sanlorenzoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sanlorenzoApp.swift; sourceTree = "<group>"; };
 		088E59B3255E2E0200B4D0B0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		088E59B4255E2E0400B4D0B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		088E59B9255E2E0400B4D0B0 /* sanlorenzo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sanlorenzo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		088E59BC255E2E0400B4D0B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		088E59C1255E2E0400B4D0B0 /* sanlorenzo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sanlorenzo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		088E59C1255E2E0400B4D0B0 /* COVID-19.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "COVID-19.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		088E59C3255E2E0400B4D0B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		088E59C4255E2E0400B4D0B0 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		088E59D5255E36ED00B4D0B0 /* PreferencesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreferencesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +73,12 @@
 			isa = PBXGroup;
 			children = (
 				088E59B2255E2E0200B4D0B0 /* sanlorenzoApp.swift */,
+				082AA698255E588E00EFBA94 /* CovidProjectMachine.swift */,
 				088E59B3255E2E0200B4D0B0 /* ContentView.swift */,
+				082AA693255E55D000EFBA94 /* NationView.swift */,
+				082AA69F255EE4AC00EFBA94 /* CurrentStateView.swift */,
+				082AA6A4255EE50100EFBA94 /* StatesView.swift */,
+				088E59D5255E36ED00B4D0B0 /* PreferencesView.swift */,
 				088E59B4255E2E0400B4D0B0 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -68,7 +88,7 @@
 			isa = PBXGroup;
 			children = (
 				088E59B9255E2E0400B4D0B0 /* sanlorenzo.app */,
-				088E59C1255E2E0400B4D0B0 /* sanlorenzo.app */,
+				088E59C1255E2E0400B4D0B0 /* COVID-19.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -124,7 +144,7 @@
 			);
 			name = "sanlorenzo (macOS)";
 			productName = "sanlorenzo (macOS)";
-			productReference = 088E59C1255E2E0400B4D0B0 /* sanlorenzo.app */;
+			productReference = 088E59C1255E2E0400B4D0B0 /* COVID-19.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -188,7 +208,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				088E59C7255E2E0400B4D0B0 /* ContentView.swift in Sources */,
+				082AA6A5255EE50100EFBA94 /* StatesView.swift in Sources */,
+				082AA699255E588E00EFBA94 /* CovidProjectMachine.swift in Sources */,
+				082AA6A0255EE4AC00EFBA94 /* CurrentStateView.swift in Sources */,
 				088E59C5255E2E0400B4D0B0 /* sanlorenzoApp.swift in Sources */,
+				088E59D6255E36ED00B4D0B0 /* PreferencesView.swift in Sources */,
+				082AA694255E55D000EFBA94 /* NationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -197,7 +222,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				088E59C8255E2E0400B4D0B0 /* ContentView.swift in Sources */,
+				082AA6A6255EE50100EFBA94 /* StatesView.swift in Sources */,
+				082AA69A255E588E00EFBA94 /* CovidProjectMachine.swift in Sources */,
+				082AA6A1255EE4AC00EFBA94 /* CurrentStateView.swift in Sources */,
 				088E59C6255E2E0400B4D0B0 /* sanlorenzoApp.swift in Sources */,
+				088E59D7255E36ED00B4D0B0 /* PreferencesView.swift in Sources */,
+				082AA695255E55D000EFBA94 /* NationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -378,7 +408,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.alexanderrohrig.sanlorenzo;
-				PRODUCT_NAME = sanlorenzo;
+				PRODUCT_NAME = "COVID-19";
 				SDKROOT = macosx;
 				SWIFT_VERSION = 5.0;
 			};
@@ -402,7 +432,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.alexanderrohrig.sanlorenzo;
-				PRODUCT_NAME = sanlorenzo;
+				PRODUCT_NAME = "COVID-19";
 				SDKROOT = macosx;
 				SWIFT_VERSION = 5.0;
 			};

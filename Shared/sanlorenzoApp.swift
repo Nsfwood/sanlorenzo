@@ -13,5 +13,8 @@ struct sanlorenzoApp: App {
         WindowGroup {
             ContentView()
         }
+        Settings {
+            PreferencesView()//.frame(width: 200, height: 200)
+        }
     }
 }

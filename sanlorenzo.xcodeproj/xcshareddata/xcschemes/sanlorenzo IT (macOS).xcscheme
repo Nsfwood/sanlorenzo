@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "088E59C0255E2E0400B4D0B0"
-               BuildableName = "sanlorenzo.app"
+               BuildableName = "COVID-19.app"
                BlueprintName = "sanlorenzo (macOS)"
                ReferencedContainer = "container:sanlorenzo.xcodeproj">
             </BuildableReference>
@@ -47,7 +47,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "088E59C0255E2E0400B4D0B0"
-            BuildableName = "sanlorenzo.app"
+            BuildableName = "COVID-19.app"
             BlueprintName = "sanlorenzo (macOS)"
             ReferencedContainer = "container:sanlorenzo.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "088E59C0255E2E0400B4D0B0"
-            BuildableName = "sanlorenzo.app"
+            BuildableName = "COVID-19.app"
             BlueprintName = "sanlorenzo (macOS)"
             ReferencedContainer = "container:sanlorenzo.xcodeproj">
          </BuildableReference>
